@@ -17,8 +17,6 @@ We are dedicated to delivering innovative solutions, specializing in modern web 
 - **Contact**: Reach out to us via [Telegram](https://t.me/makindajack).
 - **Mission**: To build reliable, user-centered software that drives technological advancement.
 
-[![autocomplete](https://codeium.com/badges/user/makindajack/autocomplete)](https://codeium.com/profile/makindajack)
-
 [![An image of @makindajack's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/makindajack)](https://holopin.io/@makindajack)
 
 <h4 align="center">
