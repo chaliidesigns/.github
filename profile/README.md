@@ -27,7 +27,7 @@
 
 ## 🏠 About Us
 
-**Chalii Designs** is the design & engineering studio of [Jackson Makinda](https://makindajackson.com), based in Dar es Salaam, Tanzania. We are dedicated to delivering innovative solutions, specializing in modern web development technologies - creating impactful, scalable, user-centered applications.
+**Chalii Designs** is the design & engineering studio of [Chalii wa UX/UI](https://github.com/chaliiwaui), based in Dar es Salaam, Tanzania. We are dedicated to delivering innovative solutions, specializing in modern web development technologies - creating impactful, scalable, user-centered applications.
 
 - 🚀 **Current Projects** - actively developing solutions with [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/) and [Laravel](https://laravel.com/)
 - 🎯 **Mission** - to build reliable, user-centered software that drives technological advancement
@@ -105,7 +105,7 @@
 
 ## 📬 Get in Touch
 
-**Chalii Designs** - design & engineering studio by Jackson Makinda - [makindajackson.com](https://makindajackson.com)
+**Chalii Designs** - design & engineering studio by Chalii wa UX/UI - [@chaliiwaui](https://github.com/chaliiwaui)
 
 - 📧 Email: me@makindajackson.com
 - 💬 Telegram: [@makindajack](https://t.me/makindajack)
