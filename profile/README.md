@@ -6,7 +6,7 @@
 </h5>
 
 <p align="center">
-  <img src="https://i.imgur.com/TdWkEkY.png" title="Chalii Designs — Jackson Makinda" alt="UX/UI designer and engineer based in Tanzania">
+  <img src="https://i.imgur.com/TdWkEkY.png" title="Chalii Designs - Jackson Makinda" alt="UX/UI designer and engineer based in Tanzania">
 </p>
 
 <p align="center">
@@ -27,12 +27,12 @@
 
 ## 🏠 About Us
 
-**Chalii Designs** is the design & engineering studio of [Jackson Makinda](https://makindajackson.com), based in Dar es Salaam, Tanzania. We are dedicated to delivering innovative solutions, specializing in modern web development technologies — creating impactful, scalable, user-centered applications.
+**Chalii Designs** is the design & engineering studio of [Jackson Makinda](https://makindajackson.com), based in Dar es Salaam, Tanzania. We are dedicated to delivering innovative solutions, specializing in modern web development technologies - creating impactful, scalable, user-centered applications.
 
-- 🚀 **Current Projects** — actively developing solutions with [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/) and [Laravel](https://laravel.com/)
-- 🎯 **Mission** — to build reliable, user-centered software that drives technological advancement
-- 🎨 **Design-led** — every product starts in design: UX research, UI systems, brand, then code
-- 📬 **Contact** — reach out via [Telegram](https://t.me/makindajack) or any of the links [below](#-get-in-touch)
+- 🚀 **Current Projects** - actively developing solutions with [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/) and [Laravel](https://laravel.com/)
+- 🎯 **Mission** - to build reliable, user-centered software that drives technological advancement
+- 🎨 **Design-led** - every product starts in design: UX research, UI systems, brand, then code
+- 📬 **Contact** - reach out via [Telegram](https://t.me/makindajack) or any of the links [below](#-get-in-touch)
 
 ## 🛠️ What We Build
 
@@ -40,7 +40,7 @@
 | --- | --- |
 | 🌐 **Web apps & sites** | React / Next.js front-ends, Laravel back-ends, marketing sites and dashboards |
 | 📱 **Mobile apps** | Cross-platform apps for client products |
-| 🎨 **Design systems & editor themes** | The open-source **Chalii** theme family — colour themes and icon packs for VS Code, JetBrains, Sublime Text, Zed, Obsidian, Spotify and 20+ other editors, terminals and apps |
+| 🎨 **Design systems & editor themes** | The open-source **Chalii** theme family - colour themes and icon packs for VS Code, JetBrains, Sublime Text, Zed, Obsidian, Spotify and 20+ other editors, terminals and apps |
 | 🧩 **Developer tooling** | Build pipelines that generate every port from a single palette or icon manifest |
 
 ## 🌟 Featured Projects
@@ -49,7 +49,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🎨 <a href="https://github.com/chaliidesigns/chalii-themes">Chalii Themes</a></h3>
-      Premium light + dark theme family with warm orange accents — one palette shipped to VS Code, JetBrains, Sublime Text, Zed, Neovim, Xcode, Helix, terminals, Slack, Discord and Obsidian.<br><br>
+      Premium light + dark theme family with warm orange accents - one palette shipped to VS Code, JetBrains, Sublime Text, Zed, Neovim, Xcode, Helix, terminals, Slack, Discord and Obsidian.<br><br>
       <a href="https://marketplace.visualstudio.com/items?itemName=makindajack.chalii-themes"><img src="https://img.shields.io/badge/VS%20Code-Marketplace-007ACC?logo=visualstudiocode" alt="Marketplace"></a>
     </td>
     <td width="50%" valign="top">
@@ -105,7 +105,7 @@
 
 ## 📬 Get in Touch
 
-**Chalii Designs** — design & engineering studio by Jackson Makinda — [makindajackson.com](https://makindajackson.com)
+**Chalii Designs** - design & engineering studio by Jackson Makinda - [makindajackson.com](https://makindajackson.com)
 
 - 📧 Email: me@makindajackson.com
 - 💬 Telegram: [@makindajack](https://t.me/makindajack)
