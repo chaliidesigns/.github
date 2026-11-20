@@ -6,6 +6,6 @@
 
 Chalii is Arusha street slang for the one you call when something needs sorting out. It is also how we work.
 
-Chalii Designs is a design agency founded in Arusha. We work remotely and in hybrid teams across Tanzania, from Dar es Salaam to Morogoro, Kilimanjaro, Tanga and beyond.
+Chalii Designs is a design agency founded in Arusha. We work remotely and in hybrid teams across Tanzania.
 
 We design creative digital products and web experiences that help brands grow, from UX research to pixel-perfect UI.
